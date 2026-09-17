@@ -1,0 +1,14 @@
+# Local configuration
+.env
+.env.local
+
+# Build artefacts
+/bin/
+/dist/
+/fizzbuzz
+
+# Editor and OS noise
+.idea/
+.vscode/
+*.swp
+.DS_Store
